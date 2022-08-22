@@ -5,4 +5,8 @@ anime = [["One punchman", "Naruto", "Naruto Shippuden", "The Rising of the Sheil
          "Jujutsu Kaisen", "Fullmetal Alchemist"],
         ["Clannad", "Toradora", "Your lie in april", "Love is war", "Highschool of the dead", "Silent Voice"]]
 
-genre = input("What type of genre are you looking for? ")
+#genre = input("What type of genre are you looking for? ")
+
+#if(genre.lower() == "action"):
+        
+#print(anime[1][1]) #! this prints hout what genre
